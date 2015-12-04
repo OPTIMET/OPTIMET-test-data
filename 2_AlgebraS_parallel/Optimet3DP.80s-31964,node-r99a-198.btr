@@ -1,0 +1,6 @@
+
+Optimet3DP:31964 terminated with signal 11 at PC=2ba3976e4425 SP=7fff2368f268.  Backtrace:
+/shared/ucl/apps/intel/2015/composer_xe_2015.2.164/mkl/lib/intel64/libmkl_blacs_intelmpi_lp64.so(Cblacs_pcoord+0x15)[0x2ba3976e4425]
+/home/ucakgim/git/OPTIMET/build/Optimet3DP(main+0x2016)[0x412326]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2ba39a318af5]
+/home/ucakgim/git/OPTIMET/build/Optimet3DP[0x409dc9]
